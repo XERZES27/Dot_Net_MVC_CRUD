@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\XERZES\.Rider2018.2\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\XERZES\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\XERZES\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_Human Resources.-1111547862.00" t="ExcludeRecursive" />
+    <e p="C:\Users\XERZES\Downloads\Video\Human Resources" t="IncludeFlat">
+      <e p="Human Resources" t="IncludeRecursive">
+        <e p="06b52e09e284542dd99eea45f9f85f68440dbcaf.ico" t="Include" />
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DataClasses1.dbml" t="Include" />
+        <e p="DataClasses1.dbml.layout" t="Include" />
+        <e p="DataClasses1.designer.cs" t="Include" />
+        <e p="DB_Server1DataSet1.Designer.cs" t="Include" />
+        <e p="DB_Server1DataSet1.xsc" t="Include" />
+        <e p="DB_Server1DataSet1.xsd" t="Include" />
+        <e p="DB_Server1DataSet1.xss" t="Include" />
+        <e p="Employees.mdf" t="Include" />
+        <e p="Employees_log.ldf" t="Include" />
+        <e p="Form1.cs" t="Include" />
+        <e p="Form1.Designer.cs" t="Include" />
+        <e p="Form1.resx" t="Include" />
+        <e p="Human Resources.csproj" t="IncludeRecursive" />
+        <e p="Human Resources_TemporaryKey.pfx" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="DataSources" t="Include">
+            <e p="DB_Server1DataSet1.datasource" t="Include" />
+          </e>
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+      </e>
+      <e p="Human Resources.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

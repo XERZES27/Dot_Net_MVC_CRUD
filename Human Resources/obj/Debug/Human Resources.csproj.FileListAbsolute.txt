@@ -1,0 +1,15 @@
+D:\4th Year\DP\Human Resources\Human Resources\bin\Debug\Human Resources.exe.config
+D:\4th Year\DP\Human Resources\Human Resources\bin\Debug\Human Resources.exe
+D:\4th Year\DP\Human Resources\Human Resources\bin\Debug\Human Resources.pdb
+D:\4th Year\DP\Human Resources\Human Resources\obj\Debug\Human_Resources.Form1.resources
+D:\4th Year\DP\Human Resources\Human Resources\obj\Debug\Human_Resources.Properties.Resources.resources
+D:\4th Year\DP\Human Resources\Human Resources\obj\Debug\Human Resources.csproj.GenerateResource.Cache
+D:\4th Year\DP\Human Resources\Human Resources\obj\Debug\Human Resources.exe
+D:\4th Year\DP\Human Resources\Human Resources\obj\Debug\Human Resources.pdb
+D:\4th Year\DP\Human Resources\Human Resources\bin\Debug\Human Resources.exe.manifest
+D:\4th Year\DP\Human Resources\Human Resources\bin\Debug\Human Resources.application
+D:\4th Year\DP\Human Resources\Human Resources\obj\Debug\Human Resources.exe.manifest
+D:\4th Year\DP\Human Resources\Human Resources\obj\Debug\Human Resources.application
+D:\4th Year\DP\Human Resources\Human Resources\obj\Debug\Human Resources.csprojResolveAssemblyReference.cache
+D:\4th Year\DP\Human Resources\Human Resources\bin\Debug\Employees.mdf
+D:\4th Year\DP\Human Resources\Human Resources\bin\Debug\Employees_log.ldf

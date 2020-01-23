@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Employees" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\Employees.mdf;Integrated Security=True;Connect Timeout=30" SettingsObjectName="Human_Resources.Properties.Settings" SettingsPropertyName="EmployeesConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Employee" Member="Employees">
+    <Type Name="Employee" InheritanceCode="1">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" IsDiscriminator="true" />
+      <Column Name="[First Name]" Member="First_Name" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="[Last Name]" Member="Last_Name" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Sex" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="[Date of Birth]" Member="Date_of_Birth" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Position" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Project" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="[Salary Level]" Member="Salary_Level" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="[Tel ]" Member="Tel_" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Country" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="[Education Level]" Member="Education_Level" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="[Training ]" Member="Training_" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="[Date of Employement]" Member="Date_of_Employement" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Type Name="Employee2" InheritanceCode="2" IsInheritanceDefault="true">
+        <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+        <Column Name="[First Name]" Member="First_Name" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+        <Column Name="[Last Name]" Member="Last_Name" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+        <Column Name="Project" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+        <Column Name="[Salary Level]" Member="Salary_Level" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+        <Column Name="[Tel ]" Member="Tel_" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+        <Column Name="[Education Level]" Member="Education_Level" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+        <Column Name="[Training ]" Member="Training_" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+        <Column Name="[Date of Employement]" Member="Date_of_Employement" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      </Type>
+    </Type>
+  </Table>
+</Database>

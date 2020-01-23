@@ -1,0 +1,12 @@
+D:\4th Year\DP\Human Resources\Human Resources\bin\Release\Human Resources.exe.config
+D:\4th Year\DP\Human Resources\Human Resources\bin\Release\Human Resources.exe.manifest
+D:\4th Year\DP\Human Resources\Human Resources\bin\Release\Human Resources.application
+D:\4th Year\DP\Human Resources\Human Resources\bin\Release\Human Resources.exe
+D:\4th Year\DP\Human Resources\Human Resources\bin\Release\Human Resources.pdb
+D:\4th Year\DP\Human Resources\Human Resources\obj\Release\Human_Resources.Form1.resources
+D:\4th Year\DP\Human Resources\Human Resources\obj\Release\Human_Resources.Properties.Resources.resources
+D:\4th Year\DP\Human Resources\Human Resources\obj\Release\Human Resources.csproj.GenerateResource.Cache
+D:\4th Year\DP\Human Resources\Human Resources\obj\Release\Human Resources.exe.manifest
+D:\4th Year\DP\Human Resources\Human Resources\obj\Release\Human Resources.application
+D:\4th Year\DP\Human Resources\Human Resources\obj\Release\Human Resources.exe
+D:\4th Year\DP\Human Resources\Human Resources\obj\Release\Human Resources.pdb
